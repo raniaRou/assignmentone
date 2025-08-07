@@ -1,0 +1,31 @@
+.bgHome{
+  background-color: #1ABC9C;
+height: 100vh;
+}
+.widthImg{
+  width:20%;
+  margin:20px auto;
+  display: block;
+  padding: 30px 0;
+}
+
+.divider{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1abc9c; /* Green background */
+  padding: 20px;
+}
+
+.line {
+  flex: 1;
+  height: 4px;
+  background-color: #ecf0f1; /* Light line color */
+  max-width: 100px;
+  margin: 0 10px;
+}
+
+.star {
+  font-size: 20px;
+  color: #ecf0f1; /* Match line color */
+}

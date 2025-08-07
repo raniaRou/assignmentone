@@ -1,0 +1,27 @@
+.footer{
+    background-color: #2C3E50;
+ padding: 25px 0;
+
+}
+
+.icon{
+display: flex;
+flex-direction:row;
+gap:25px;
+margin-top: 30px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border:white 1px solid;
+}
+.font{
+    color: white ;
+    background-color: #1A252F;
+    padding: 10px 0;
+    text-align: center;
+}

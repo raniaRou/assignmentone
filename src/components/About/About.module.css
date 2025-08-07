@@ -1,0 +1,27 @@
+.bgAbout{
+    background-color:  #1ABC9C;
+height: 100vh;
+}
+.dividerA{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1abc9c; /* Green background */
+  padding: 20px;
+}
+
+.lineA{
+  flex: 1;
+  height: 4px;
+  background-color: #ecf0f1; /* Light line color */
+  max-width: 100px;
+  margin: 0 10px;
+}
+
+.starA {
+  font-size: 20px;
+  color: #ecf0f1; /* Match line color */
+}
+.contanierAbout{
+    padding: 0 200px;
+}

@@ -1,0 +1,24 @@
+.dividerC{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: #1abc9c; Green background */
+  padding: 20px;
+}
+
+.lineC {
+  flex: 1;
+  height: 4px;
+  background-color: #2C3E50; /* Light line color */
+  max-width: 100px;
+  margin: 0 10px;
+}
+
+.starC {
+  font-size: 20px;
+  color: #2C3E50 /* Match line color */
+}
+.bgContact{
+    background-color: white;
+    height: 100vh;
+}
